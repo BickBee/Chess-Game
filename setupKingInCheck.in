@@ -1,0 +1,10 @@
+setup
++ K e1
++ k a3
++ q e2
+- e2
++ p g8
++ P b6
++ n f3
++ Q g8
+done
